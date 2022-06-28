@@ -1,6 +1,6 @@
 {
-      "DocEntry": 5390,
-      "DocNum": 2651,
+      "DocEntry": {"int"},
+      "DocNum": {"int"},
       "DocType": "dDocument_Items",
       "DocDate": "2020-06-19",
       "DocDueDate": "2020-07-19",
@@ -13,7 +13,7 @@
       "Reference1": "2651",
       "Comments": "Basado en Pedidos de cliente 500030. Basado en Entregas 483.",
       "JournalMemo": "Facturas clientes - 008068",
-      "Series": 4,
+      "Series": {"int"},
       "BPLName": "Las Malvinas S.R.L.",
       "EDocType": "edocFE"
 }
