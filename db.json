@@ -15,46 +15,5 @@
       "JournalMemo": "Facturas clientes - 008068",
       "Series": 4,
       "BPLName": "Las Malvinas S.R.L.",
-      "EDocType": "edocFE",
-      "DocumentLines": [
-        {
-          "LineNum": 0,
-          "ItemCode": "TRAT-0007",
-          "ItemDescription": "AQUALID II X 5 LT",
-          "Quantity": 2,
-          "Price": 16,
-          "PriceAfterVAT": 19.52,
-          "Currency": "USD",
-          "Rate": 42.705,
-          "DiscountPercent": 0,
-          "WarehouseCode": "LM-AT",
-          "UnitPrice": 16,
-          "LineTaxJurisdictions": [
-            {
-              "JurisdictionCode": "IVA_TB",
-              "TaxAmount": 300.64,
-              "TaxAmountSC": 7.04,
-              "TaxAmountFC": 7.04,
-              "TaxRate": 22,
-              "DocEntry": 5390,
-              "LineNumber": 0,
-            }
-          ],
-        }
-      ],
-		"StreetS": "LOMAS DE CARRASCO S96",
-		"CityS": "LA TAHONA",
-		"StateS": "02",
-		"CountryS": "UY",
-		"StreetB": "LOMAS DE CARRASCO S96",
-		"BlockB": null,
-		"BuildingB": null,
-		"CityB": "LA TAHONA",
-		"ZipCodeB": null,
-		"CountyB": null,
-		"StateB": "02",
-		"CountryB": "UY",
-		"DocEntry": 5390
+      "EDocType": "edocFE"
 }
-
-	
