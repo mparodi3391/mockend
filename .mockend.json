@@ -1,21 +1,14 @@
 {
-      "DocEntry": {"int"},
-      "DocNum": {"int"},
-      "DocType": { "string": {} },
-      "DocDate": "2020-06-19",
-      "DocDueDate": "2020-07-19",
-      "CardCode": { "string": {} },
-      "CardName": { "string": {} },
-      "Address": { "string": {} },
-      "DocTotal": 1667,
-      "DocCurrency": { "string": {} },
-      "DocRate": 42.705,
-      "Reference1": "2651",
-      "Comments": { "string": {} },
-      "JournalMemo": { "string": {} },
-      "Series": {"int"},
-      "BPLName": { "string": {} },
-      "EDocType": { "string": {} }
+	"LineNum": 0,
+        "ItemCode": "TRAT-0007",
+	"ItemDescription": "AQUALID II X 5 LT",
+	"Quantity": 2,
+	"Price": 16,
+	"PriceAfterVAT": 19.52,
+	"Currency": "USD",
+	"Rate": 42.705,
+	"DiscountPercent": 0,
+	"WarehouseCode": "LM-AT",
+	"UnitPrice": 16,
 }
-
 	
