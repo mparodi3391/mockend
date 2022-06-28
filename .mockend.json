@@ -1,21 +1,21 @@
 {
       "DocEntry": {"int"},
       "DocNum": {"int"},
-      "DocType": "dDocument_Items",
+      "DocType": { "string": {} },
       "DocDate": "2020-06-19",
       "DocDueDate": "2020-07-19",
-      "CardCode": "008068",
-      "CardName": "Graciela Bossi",
-      "Address": "LOMAS DE CARRASCO S96\r\r LA TAHONA\rURUGUAY",
+      "CardCode": { "string": {} },
+      "CardName": { "string": {} },
+      "Address": { "string": {} },
       "DocTotal": 1667,
-      "DocCurrency": "USD",
+      "DocCurrency": { "string": {} },
       "DocRate": 42.705,
       "Reference1": "2651",
-      "Comments": "Basado en Pedidos de cliente 500030. Basado en Entregas 483.",
-      "JournalMemo": "Facturas clientes - 008068",
+      "Comments": { "string": {} },
+      "JournalMemo": { "string": {} },
       "Series": {"int"},
-      "BPLName": "Las Malvinas S.R.L.",
-      "EDocType": "edocFE"
+      "BPLName": { "string": {} },
+      "EDocType": { "string": {} }
 }
 
 	
