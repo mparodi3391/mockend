@@ -1,7 +1,7 @@
 {
-  "User": {},
-  "Post": {},
-  "Comment": {},
-  "Person": {},
-  "City": {}
+  "User": {"string" : {} },
+  "Post": {"string" : {} },
+  "Comment": {"string" : {} },
+  "Person": {"string" : {} },
+  "City": {"string" : {} }
 }
