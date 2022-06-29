@@ -1,19 +1,7 @@
 {
-      "DocEntry": 5390,
-      "DocNum": 2651,
-      "DocType": "dDocument_Items",
-      "DocDate": "2020-06-19",
-      "DocDueDate": "2020-07-19",
-      "CardCode": "008068",
-      "CardName": "Graciela Bossi",
-      "Address": "LOMAS DE CARRASCO S96\r\r LA TAHONA\rURUGUAY",
-      "DocTotal": 1667,
-      "DocCurrency": "USD",
-      "DocRate": 42.705,
-      "Reference1": "2651",
-      "Comments": "Basado en Pedidos de cliente 500030. Basado en Entregas 483.",
-      "JournalMemo": "Facturas clientes - 008068",
-      "Series": 4,
-      "BPLName": "Las Malvinas S.R.L.",
-      "EDocType": "edocFE"
+  "User": "Martin",
+  "Post": "Estamos en la B",
+  "Comment": "lpm",
+  "Person": "mparo",
+  "City": "montevideo"
 }
