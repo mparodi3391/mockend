@@ -1,6 +1,6 @@
 {
   "Post": {
-      "Asunto": {"loremSentences": { "minLength": 1, "maxLength": 5 }},
+      "Asunto": {"loremSentences": { "minLength": 50, "maxLength": 100 }},
       "Telefono": {"int" : { "min": 24000000, "max": 26989999 } },
       "Cliente": {"string" : [
                 "Rachel Torres",
