@@ -2,8 +2,29 @@
   "Post": {
       "User": {"string" : {} },
       "Title": {"string" : {} },
-      "Comment": {"string" : {} },
-      "Person": {"string" : {} },
+      "Phone": {"int" : { "regexp": "[0-9]{8}" } },
+      "Person": {"string" : [
+                "Rachel Torres",
+                "Ian Skinner",
+                "Lucas Richardson",
+                "Nicole Williams",
+                "Jason Lamb",
+                "Laura Mosley",
+                "Dr. Sarah Jordan DDS",
+                "Rachel Jackson",
+                "Douglas Hill",
+                "Rebecca Austin",
+                "Katherine Peterson",
+                "Angel Branch",
+                "Justin Jones",
+                "Richard Porter DDS",
+                "Paul Lewis",
+                "Robert Smith",
+                "Christopher Gonzalez",
+                "Andrea Byrd",
+                "Sarah Santos",
+                "Anna Gardner"
+      ] },
       "City": {"string" : {} }
   }
 }
