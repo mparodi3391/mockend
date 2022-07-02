@@ -1,9 +1,8 @@
 {
   "Post": {
-      "User": {"string" : {} },
-      "Title": {"string" : {} },
-      "Phone": {"int" : { "min": 24000000, "max": 26989999 } },
-      "Person": {"string" : [
+      "Asunto": {"string" : {"loremSentences": { "minLength": 1, "maxLength": 5 }} },
+      "Telefono": {"int" : { "min": 24000000, "max": 26989999 } },
+      "Cliente": {"string" : [
                 "Rachel Torres",
                 "Ian Skinner",
                 "Lucas Richardson",
@@ -25,6 +24,34 @@
                 "Sarah Santos",
                 "Anna Gardner"
       ] },
-      "City": {"string" : {} }
+      "Direccion": {"string" : [
+                "38469 Ortiz Lodge South Leonard, MT 65566",
+                "9407 Patterson Freeway Apt. 382 North Michael, KY 86824",
+                "35101 Gregory Lake Apt. 813 Elizabethtown, NM 53714",
+                "5662 Franklin View Kimberlystad, WY 54791",
+                "192 Megan Plaza Apt. 730 Lake Whitneyview, MS 56400",
+                "521 Allison Wells Jennifermouth, AK 93933",
+                "92475 Browning Stravenue Apt. 607 South Suzanne, FL 03372",
+                "5365 Edward Station North Josephmouth, SD 33608",
+                "1191 Mann Springs Codystad, WI 45172",
+                "0362 Robert Crossroad Suite 947 North Christopher, MO 42248",
+                "861 Webster Oval Port Dakota, NH 61129",
+                "284 Brett Via Rachelbury, MN 84498",
+                "98003 Danielle Freeway Suite 559 Ortegafurt, KY 55749",
+                "88533 Christina Roads Jordanhaven, KY 26349",
+                "8453 Teresa Courts Apt. 859 East Anthony, FL 63837",
+                "8513 Campbell Station Apt. 728 Port Sarahchester, DC 72362",
+                "USNV Hunter FPO AP 75210",
+                "81576 Mathews Harbor Suite 791 Johnsonberg, LA 56825",
+                "92016 Torres Divide Suite 762 South Lindatown, NV 59029",
+                "76079 Gomez Glens North Shawn, AK 77468"
+
+      ] },
+      "Tecnico": {"string":[
+                "Juan Parrillo",
+                "Willman Caetano",
+                "Rodrigo Bibbo",
+                "Diego Torres"
+      ]}
   }
 }
