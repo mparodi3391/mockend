@@ -2,7 +2,7 @@
   "Post": {
       "User": {"string" : {} },
       "Title": {"string" : {} },
-      "Phone": {"int" : { "regexp": "[0-9]{8}" } },
+      "Phone": {"int" : { "min": 24000000, "max": 26989999 } },
       "Person": {"string" : [
                 "Rachel Torres",
                 "Ian Skinner",
