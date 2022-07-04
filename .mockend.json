@@ -52,6 +52,19 @@
                 "Willman Caetano",
                 "Rodrigo Bibbo",
                 "Diego Torres"
-      ]}
+      ]},
+      "FechaVisita": {"dateTime": {
+          "min": "2022-07-01T00:00:00Z",
+          "max": "2022-07-31T23:59:59Z"
+      }},
+      "Duracion":{"int" : [
+          30,
+          35,
+          40,
+          45,
+          50,
+          55,
+          60
+      ]}                   
   }
 }
